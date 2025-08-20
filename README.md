@@ -37,7 +37,8 @@ While much of my coursework is centered on data science, my personal projects ex
   <!-- Add description of circuit design, hardware sourcing, and lessons learned -->
   <!-- Optional: Embed YouTube demo if safe for work -->
 
-- **Pull-Chain Sound Button**  
+- **Pull-Chain Sound Button**
+- 
   <!-- Add pictures of the build process and final product -->
   <!-- Add explanation of circuit setup, hardware choices, and what was learned -->
   <!-- Optional: Embed YouTube demo if safe for work -->
