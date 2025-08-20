@@ -32,7 +32,9 @@ While much of my coursework is centered on data science, my personal projects ex
 - [**Concurrent Socket Server**](https://github.com/SunnyInWukong/Concurrent-Socket-Server)  
 
 ### Electronics & Robotics
-- **Bluetooth Door Closer**  
+- **Bluetooth Door Closer**
+- ![Image](https://github.com/user-attachments/assets/8980f532-409a-4336-866a-07310c1b377c)
+- ![Image](https://github.com/user-attachments/assets/3900815e-411b-4e9c-bec1-4cd5706c7304)
   <!-- Add pictures of the build process and final product -->
   <!-- Add description of circuit design, hardware sourcing, and lessons learned -->
   <!-- Optional: Embed YouTube demo if safe for work -->
