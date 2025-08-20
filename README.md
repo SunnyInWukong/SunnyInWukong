@@ -1,36 +1,60 @@
 # SunniyInWukong
+
 ## About Me
-Hello, my name is Brett Knox and i'm a data science student at the University of North Florida, expecting to get my bachelors degree by spring of 2026.
-I started and manage a creative workshop called the "Fellowship of Research, Gadgets, & Engineering" or F.O.R.G.E.,  where the main objective is to have S.T.E.M. students apply what they've learned in creative ways.
-While much of my studying is data-related, many of my personal projects are more engineering / robotics adjacen as i am passionate about creating new things & applying what i've learned to my daily life. 
+Hello, my name is **Brett Knox**, and I’m a Data Science student at the **University of North Florida**, expecting to graduate with my bachelor’s degree by **Spring 2026**.  
+
+I founded and manage a creative workshop called **F.O.R.G.E.** (*Fellowship of Research, Gadgets, & Engineering*), where the focus is on helping S.T.E.M. students apply what they’ve learned in innovative and practical ways.  
+
+While much of my coursework is centered on data science, my personal projects extend into **engineering, electronics, and robotics**, reflecting my passion for building, experimenting, and applying knowledge to real-world challenges.
+
+---
 
 ## Skills
-### languadges:
--Python ( intermediate)<br>
--Java (intermediate)<br>
--C (beginner)<br>
--SQL (intermediate)<br>
--SAS (beginner)<br>
--R (intermediate)<br>
-### Other:
-Project managment: Organizing my team to plan projects & delegating tasks has forced me to improve my ability to organize projects so they get done in a timely manner. <br>
-Time managment: Currently, im taking 19 credit hours, managing a creative team & frontrunning our projects, working a part time job, and participate regularly in social events, which is only possible through my efforts in carefully considering my obligations, limits, and goals to get the most out of time.<br>
 
+### Programming Languages
+- **Python** (Intermediate)  
+- **Java** (Intermediate)  
+- **C** (Beginner)  
+- **SQL** (Intermediate)  
+- **SAS** (Beginner)  
+- **R** (Intermediate)  
 
+### Other Skills
+- **Project Management**: Experienced in organizing and delegating tasks within teams to ensure timely project completion.  
+- **Time Management**: Successfully balance 19 credit hours, leadership in F.O.R.G.E., part-time work, and social involvement through disciplined scheduling and prioritization.  
 
+---
 
-## My Projects
-### Iterative socket server
-https://github.com/SunnyInWukong/Iterative_Socket_Server
-### concurrent socket server
-https://github.com/SunnyInWukong/Concurrent-Socket-Server
-### bluetooth door closer
-- upload pictures from finished project + explain the process & what was learned ( circuit stuff, sourcing the proper hardware, etc.) // look into whether you show videos or the progress of it / picture wise
-### pull-chain sound 'button'
-- upload pictures from finished project + explain the process & what was learned ( circuit stuff, sourcing the proper hardware, etc.)
+## Projects
 
-(if YT videos are made, consider linking them here, it might be nice if they are safe for work)
+### Networking & Systems
+- [**Iterative Socket Server**](https://github.com/SunnyInWukong/Iterative_Socket_Server)  
+- [**Concurrent Socket Server**](https://github.com/SunnyInWukong/Concurrent-Socket-Server)  
 
-## Contact Information
-Email: BrettKnox2003@gmail.com
-LinkedIn: www.linkedin.com/in/brett-knox-624238261
+### Electronics & Robotics
+- **Bluetooth Door Closer**  
+  <!-- Add pictures of the build process and final product -->
+  <!-- Add description of circuit design, hardware sourcing, and lessons learned -->
+  <!-- Optional: Embed YouTube demo if safe for work -->
+
+- **Pull-Chain Sound Button**  
+  <!-- Add pictures of the build process and final product -->
+  <!-- Add explanation of circuit setup, hardware choices, and what was learned -->
+  <!-- Optional: Embed YouTube demo if safe for work -->
+
+<!-- Future reminder: link additional repositories here when uploaded -->
+
+### Fundamentals & Practice
+- [**Python Practice (Data Structures & Algorithms)**](https://github.com/SunnyInWukong/Python-Practice)  
+  A collection of Python implementations of core data structures and algorithms, including linked lists, stacks, queues, trees, and graphs.  
+  The goal of this repository is to strengthen understanding of algorithmic efficiency, memory usage, and traversal methods while maintaining clean, reusable code.  
+  <!-- Add notes on coverage: sorting/searching algorithms, recursion, complexity analysis, etc. -->
+  <!-- Consider expanding README inside the repo with explanations and usage examples for each structure -->
+
+---
+
+## Contact
+- **Email**: [BrettKnox2003@gmail.com](mailto:BrettKnox2003@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/brett-knox-624238261](https://www.linkedin.com/in/brett-knox-624238261)  
+
+---
