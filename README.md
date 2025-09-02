@@ -70,6 +70,6 @@ Java-based client-server programs. Explored iterative vs. concurrent architectur
 ## Contact
 - 📧 [BrettKnox2003@gmail.com](mailto:BrettKnox2003@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brett-knox-624238261)  
-- 💻 [GitHub](https://github.com/SunniyInWukong)  
+
 
 ---
