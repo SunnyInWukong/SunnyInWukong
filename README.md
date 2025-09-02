@@ -21,7 +21,7 @@ While much of my coursework is centered on data science, my personal projects ex
 
 ### Other Skills
 - **Project Management**: Experienced in organizing and delegating tasks within teams to ensure timely project completion.  
-- **Time Management**: Successfully balance 19 credit hours, leadership in F.O.R.G.E., part-time work, and social involvement through disciplined scheduling and prioritization.  
+- **Time Management**: Successfully balance 19 credit hours, leadership in Applied Reasearch Collective ( A.R.C), part-time work, and social involvement through disciplined scheduling and prioritization.  
 
 ---
 
@@ -33,14 +33,14 @@ While much of my coursework is centered on data science, my personal projects ex
 
 ### Electronics & Robotics
 - **Bluetooth Door Closer**
-- ![Image](https://github.com/user-attachments/assets/8980f532-409a-4336-866a-07310c1b377c)
-- ![Image](https://github.com/user-attachments/assets/3900815e-411b-4e9c-bec1-4cd5706c7304)
+
   <!-- Add pictures of the build process and final product -->
   <!-- Add description of circuit design, hardware sourcing, and lessons learned -->
   <!-- Optional: Embed YouTube demo if safe for work -->
 
 - **Pull-Chain Sound Button**
-- 
+- <!-- ![Image](https://github.com/user-attachments/assets/8980f532-409a-4336-866a-07310c1b377c)-->
+- <!-- ![Image](https://github.com/user-attachments/assets/3900815e-411b-4e9c-bec1-4cd5706c7304) -->
   <!-- Add pictures of the build process and final product -->
   <!-- Add explanation of circuit setup, hardware choices, and what was learned -->
   <!-- Optional: Embed YouTube demo if safe for work -->
