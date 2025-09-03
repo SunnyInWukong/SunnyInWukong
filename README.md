@@ -1,4 +1,4 @@
-# SunniyInWukong
+# SunnyInWukong
 
 ## About Me
 I’m **Brett Knox**, a Data Science student at the **University of North Florida**, graduating **Spring 2026**.  
