@@ -49,6 +49,11 @@ Java-based client-server programs. Explored iterative vs. concurrent architectur
 ---
 
 ### Electronics & Robotics
+- **Business Card Thrower**  
+  3D-printed, wrist-mounted launcher that feeds cards via spring-loaded holder into a motorized spinner.  
+  Designed and printed custom models, wired circuits, and integrated a button trigger for one-handed use.  
+  Also developed an ESP32 + transistor Bluetooth-controlled version, but optimized final design for standalone button control.  
+  *Planned additions*: STL files, wiring diagrams, and demo video.
 - **Bluetooth Door Closer**  
   ESP32 + DC motor device that spools cord to automatically close a door via Bluetooth commands.  
   *Planned additions*: circuit diagrams, build photos, and optional demo video.
